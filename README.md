@@ -1,4 +1,7 @@
 # PROJECTS
-<h2>This is my first Git Repository</h2>
+.heading{
+  color:"purple";
+}
+<p class="heading">This is my first Git Repository</p>
 <br>
 Amog M.
